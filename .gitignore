@@ -1,0 +1,6 @@
+Pipfile
+Pipfile.lock
+config/
+db.sqlite3
+manage.py
+pages/
